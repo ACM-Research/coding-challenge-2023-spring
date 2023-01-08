@@ -1,6 +1,10 @@
 # ACM Research coding challenge (Spring 2023)
 
-Note: if it's getting down to the deadline (February 1st at 11:59 PM CST) and you don't think you will be able to finish your project on time, just complete whatever you have! Please do not work on the challenge after the deadline, but if you do need a few extra hours, make sure your challenge is done before interviews begin tomorrow (Feb 2nd).
+![image](https://user-images.githubusercontent.com/72369124/211179527-0ee60624-2794-4e13-bf7f-f88b5c950e44.png)
+
+## IMPORTANT: Make sure to create a fork of this repo and share the link on your ACM Research Application Typeform submission. The coding challenge does not have to be completed at the time of you submitting the Typeform application (unless you completed the application last minute!)
+
+Note: If it's getting down to the deadline (February 1st at 11:59 PM CST) and you don't think you will be able to finish your project on time, just complete whatever you have! Please do not work on the challenge after the deadline, but if you do need a few extra hours, make sure your challenge is done before interviews begin tomorrow (Feb 2nd).
 
 This semester's challenge is especially open-ended. [Please refer to this dataset](https://www.kaggle.com/datasets/deepu1109/star-dataset) on Kaggle called "Star dataset to predict star types".  It contains information about 240 stars and various properties taken from "Stars and Galaxies" by Seeds and Backman. Each row contains 7 pieces of information about a star, such as its temperature, luminosity, radius, absolute magnitude, star type, star color, and spectral class.
 
@@ -56,4 +60,4 @@ Submissions will be evaluated holistically, in combination with the rest of your
 
 ## Support and questions
 
-Feel free to ask for clarifications in the #research-qna channel in the [ACM UTD Discord server](https://discord.gg/nJxRdKdG4d)! You can also directly message ACM Research Co-Directors Pranav Nair or Sisi Aarukapalli-Rose on the ACM Research or the main ACM Discord servers.
+Feel free to ask for clarifications in the #research-qna channel in the [ACM UTD Discord server](https://discord.gg/nJxRdKdG4d)! You can also directly message ACM Research Co-Directors Pranav Nair or Sisi Aarukapalli-Rose on the ACM Discord server.
