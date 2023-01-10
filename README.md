@@ -16,7 +16,11 @@ Please note that the star type, denoted as integers, are translated as the follo
 - Supergiant -> Star Type = 4
 - Hypergiant -> Star Type = 5
 
-Here's the coding challenge: What can you do with all of this data? Yes, this is an open-ended question and your answer should be a brief report, showcasing your skills. Can you find a pattern, answer a question, or create a visualization? In case nothing comes to mind, here are some ideas, with varying complexity:
+---
+
+## INSTRUCTIONS: Please read this carefully, do not skim this!
+
+Here's the coding challenge: **What can you do with all of this data?** Yes, this is an **open-ended** question and your answer should be a brief report, showcasing your skills. Can you find a pattern, answer a question, or create a visualization? In case nothing comes to mind, here are some ideas, with varying complexity:
 
 - What is the most common star type in the data?
 - What common patterns do you notice between any two properties? Ex: Is there a relationship between the star color and temperature?
@@ -28,6 +32,8 @@ Bonus: Can you find the row of data that most closely resembles our star, the Su
 However, we strongly encourage you to come up with your own problem to solve! This is for you to showcase your skills!
 
 You can use any programming language, framework, or library you want, but we recommend [creating a notebook in Kaggle](https://www.kaggle.com/docs/notebooks) and using Python. This will run in your browser, interlaces code with documentation, allows you to import the Stars dataset easily by pressing the "Add data" button, and gives you access to Python's high-quality, high-level libraries for working with data. [Learn more about data science in Python.](https://www.w3schools.com/datascience/ds_python.asp)
+
+---
 
 ## How to create your solution repo **(COMPLETE STEPS #1 and #2 BEFORE YOU SUBMIT YOUR APPLICATION, AND PUT THE LINK IN THE APPLICATION)**
 
