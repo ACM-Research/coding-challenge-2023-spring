@@ -20,7 +20,7 @@ Please note that the star type, denoted as integers, are translated as the follo
 
 ## INSTRUCTIONS: Please read this carefully, do not skim this!
 
-### Here's the coding challenge: **What can you do with all of this data?** Yes, this is an **open-ended** question and your answer should be a brief report, showcasing your skills. Can you find a pattern, answer a question, or create a visualization? In case nothing comes to mind, here are some ideas, with varying complexity:
+### Here's the coding challenge: **What can you do with all of this data?** Yes, this is an **OPEN-ENDED** question and your answer should be a brief report, showcasing your skills. Can you find a pattern, answer a question, or create a visualization? In case nothing comes to mind, here are some ideas, with varying complexity:
 
 - What is the most common star type in the data?
 - What common patterns do you notice between any two properties? Ex: Is there a relationship between the star color and temperature?
